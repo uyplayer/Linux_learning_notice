@@ -13,6 +13,6 @@ int main(int argc, char const *argv[]) {
 
  if((write(1,buffer,nread))!= nread)
     write(2,"A read error has occurred \n",27):
-    
+
   return 0;
 }
