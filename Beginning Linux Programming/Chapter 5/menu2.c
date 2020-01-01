@@ -16,7 +16,5 @@ int main(int argc, char const *argv[]) {
     } while(choice != ‘q’);
     exit(0);
 
-
-
   return 0;
 }
