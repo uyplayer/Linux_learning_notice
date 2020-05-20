@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python
 
 until who | grep "$1" >/dev/null
 do
